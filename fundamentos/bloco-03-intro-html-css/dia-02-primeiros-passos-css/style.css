@@ -1,0 +1,31 @@
+h1{
+    font-family: sans-serif; 
+    color: orange;
+    font-size: 65px; 
+   }
+   ul{
+     background: grey;  
+     line-height: 40px;   
+     font-style: oblique;
+     text-align: justify;
+     text-decoration: underline;
+   }
+   .bg-change{
+     background: yellow;
+   }
+   p{
+     font-weight: 600;
+     font-size: 3em;
+   }
+   body{
+     font-size: 16px;
+   }
+   #yellow{
+     background: yellow;
+   }
+   #red{
+     background: red;
+   }
+   #brown{
+     background: brown;
+   }
