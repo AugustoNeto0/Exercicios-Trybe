@@ -1,3 +1,18 @@
-div:hover{
-    border: 3px solid goldenrod;
+
+div:hover:nth-of-type(1){
+    border:3px solid red;
 }
+div:hover:nth-of-type(2){
+    border:3px solid pink;
+}
+div:hover:nth-of-type(3){
+    border:3px solid orange;
+}
+div:hover:nth-of-type(4){
+    border:3px solid black;
+}
+div:hover:nth-of-type(5){
+    border:3px solid lightgreen;
+}
+
+
