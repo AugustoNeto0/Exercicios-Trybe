@@ -4,3 +4,6 @@ p, h1{
 li:hover{
     background-color: goldenrod;
 }
+li:active{
+    font-family: sans-serif;
+}
